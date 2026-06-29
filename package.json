@@ -1,0 +1,23 @@
+{
+  "name": "js_playwrite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panditakshay402/Js_PlayWrite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/panditakshay402/Js_PlayWrite/issues"
+  },
+  "homepage": "https://github.com/panditakshay402/Js_PlayWrite#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1"
+  }
+}
