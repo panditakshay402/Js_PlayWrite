@@ -54,8 +54,8 @@
 const showEmployees = () => {
 
     let employees = [
-        { name: "Akshay", role: "Tester" },
-        { name: "Rahul", role: "Developer" },
+        { name: "Akshay", role: "Developer" },
+        { name: "Rahul", role: "Tester" },
         { name: "Priya", role: "Manager" }
     ];
 
