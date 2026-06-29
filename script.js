@@ -61,7 +61,7 @@ const showEmployees = () => {
 
     let div = document.getElementById("employeeDiv");
     let table = document.createElement("table");
-    table.border = "2";
+    table.border = "5";
 
 
     let header = `
